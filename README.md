@@ -1,1 +1,1 @@
-# veeray-hospitality-consulty
+# Veeray-Hospitality-Consulty
