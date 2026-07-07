@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Veeray Hospitality Consulty</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; color: #222; line-height: 1.6; }
+        header, nav, section { padding: 40px; max-width: 1100px; margin: auto; }
+        nav { background: #111; color: #fff; padding: 20px; }
+        nav a { color: #fff; margin-right: 20px; text-decoration: none; font-weight: bold; }
+        h1, h2, h3 { margin-top: 0; }
+        .section-title { margin-top: 60px; }
+        footer { background: #111; color: #fff; padding: 40px; text-align: center; margin-top: 60px; }
+    </style>
+</head>
+
+<body>
+
+    <!-- NAVIGATION -->
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#services">Services</a>
+        <a href="#pricing">Pricing</a>
+        <a href="#testimonials">Testimonials</a>
+        <a href="#casestudies">Case Studies</a>
+        <a href="#booking">Booking</a>
+    </nav>
+
+    <!-- HOME PAGE -->
+    <section id="home">
+        <h1>Front‑of‑House Excellence. Engineered.</h1>
+        <p>Veeray Hospitality Consulty delivers precision‑crafted front‑of‑house systems, elite staff training, and luxury guest‑experience design. We help restaurants elevate their service identity, strengthen team performance, and create unforgettable moments for every guest.</p>
+        <p>Your FOH is not just a department — it’s the heartbeat of your brand. We make sure it beats with clarity, confidence, and refinement.</p>
+
+        <h2 class="section-title">What We Deliver</h2>
+        <ul>
+            <li>Front‑of‑House Training</li>
+            <li>Guest Experience Audits</li>
+            <li>Operational Systems</li>
+            <li>Leadership Coaching</li>
+            <li>New Opening FOH Setup</li>
+        </ul>
+
+        <h2 class="section-title">Why Restaurants Choose Us</h2>
+        <ul>
+            <li>Calm, confident, luxury‑driven service philosophy</li>
+            <li>Tailored solutions for every restaurant style</li>
+            <li>Clear, actionable improvements from day one</li>
+            <li>Modern hospitality leadership approach</li>
+            <li>Results that show up in guest satisfaction and revenue</li>
+        </ul>
+    </section>
+
+    <!-- SERVICES PAGE -->
+    <section id="services">
+        <h1>Precision‑Crafted Front‑of‑House Solutions</h1>
+        <p>Every service is designed to elevate FOH performance, strengthen your team, and refine your guest experience.</p>
+
+        <h2 class="section-title">Essentials Consultation — £299</h2>
+        <p>A focused introduction to FOH refinement.</p>
+
+        <h2 class="section-title">Premium Service Audit — £799</h2>
+        <p>A discreet, high‑precision guest experience evaluation.</p>
+
+        <h2 class="section-title">Elite FOH Training Day — £1,200</h2>
+        <p>A full‑day transformation for your entire FOH team.</p>
+
+        <h2 class="section-title">Leadership Coaching Programme — £1,500</h2>
+        <p>Develop FOH leaders who inspire, communicate, and execute with clarity.</p>
+
+        <h2 class="section-title">New Opening FOH Setup — £3,500+</h2>
+        <p>Launch your restaurant with a fully engineered service identity.</p>
+    </section>
+
+    <!-- PRICING PAGE -->
+    <section id="pricing">
+        <h1>Clear. Transparent. Premium.</h1>
+        <p>Our pricing reflects the precision, expertise, and refinement we bring to every FOH transformation.</p>
+
+        <ul>
+            <li><strong>Essentials Consultation:</strong> £299</li>
+            <li><strong>Premium Service Audit:</strong> £799</li>
+            <li><strong>Elite FOH Training Day:</strong> £1,200</li>
+            <li><strong>Leadership Coaching Programme:</strong> £1,500</li>
+            <li><strong>New Opening FOH Setup:</strong> £3,500+</li>
+        </ul>
+    </section>
+
+    <!-- TESTIMONIALS PAGE -->
+    <section id="testimonials">
+        <h1>Real Clients. Real Transformations.</h1>
+
+        <blockquote>“Our service flow transformed within days.” — Executive Manager, London</blockquote>
+        <blockquote>“Professional, modern, and deeply impactful.” — Restaurant Owner, Surrey</blockquote>
+        <blockquote>“The audit revealed things we never noticed.” — General Manager, Mayfair</blockquote>
+        <blockquote>“Leadership coaching changed our culture.” — Hospitality Director, Kent</blockquote>
+        <blockquote>“Our new opening ran flawlessly.” — Boutique Restaurant, Brighton</blockquote>
+    </section>
+
+    <!-- CASE STUDIES PAGE -->
+    <section id="casestudies">
+        <h1>Precision. Clarity. Proven Results.</h1>
+
+        <h2 class="section-title">Fine‑Dining Restaurant, London</h2>
+        <p>22% increase in average spend per guest.</p>
+
+        <h2 class="section-title">Boutique Restaurant, Kent</h2>
+        <p>40% reduction in wait times.</p>
+
+        <h2 class="section-title">Modern Casual Dining, Brighton</h2>
+        <p>Flawless opening day.</p>
+
+        <h2 class="section-title">Luxury Hotel Restaurant, Surrey</h2>
+        <p>Elevated service elegance and consistency.</p>
+    </section>
+
+    <!-- BOOKING PAGE -->
+    <section id="booking">
+        <h1>Begin Your Front‑of‑House Transformation</h1>
+        <p>Provide your details to begin your booking:</p>
+
+        <ul>
+            <li>Name</li>
+            <li>Restaurant</li>
+            <li>Email</li>
+            <li>Phone</li>
+            <li>Service required</li>
+            <li>Preferred date</li>
+            <li>Notes</li>
+        </ul>
+
+        <p>Urgent enquiries are prioritised.</p>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+        Veeray Hospitality Consulty<br>
+        Luxury Front‑of‑House Consultancy<br>
+        © 2026 All Rights Reserved<br>
+        Hayes, England
+    </footer>
+
+</body>
+</html>
